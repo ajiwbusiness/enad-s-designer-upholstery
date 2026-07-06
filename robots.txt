@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enad-s-designer-upholstery-raleigh.pages.dev/sitemap.xml
